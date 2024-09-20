@@ -47,4 +47,5 @@ if num == sum:
 else:
    print(num,"is not an Armstrong number")
     new change
+    pull request change
 >>>>>>> Stashed changes
